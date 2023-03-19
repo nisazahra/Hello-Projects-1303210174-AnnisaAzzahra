@@ -1,5 +1,6 @@
 #include "RESTORAN.h"
 
+#TUGASBESAR STRUKTUR DATA SEMESTER 3
 int main()
 {
     List_konsumen K;
