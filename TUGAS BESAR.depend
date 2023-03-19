@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1671682922 source:c:\users\asus\onedrive\documents\praktikum\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1671683709 c:\users\asus\onedrive\documents\praktikum\tugas besar\restoran.h
+	<iostream>
+
+1671682649 source:c:\users\asus\onedrive\documents\praktikum\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1671682922 source:c:\users\asus\downloads\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1671948656 c:\users\asus\downloads\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1671947939 source:c:\users\asus\downloads\tubes\tubes\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1672238383 source:c:\users\asus\onedrive\documents\praktikum\tubes1.1\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1672238589 c:\users\asus\onedrive\documents\praktikum\tubes1.1\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1672749609 source:e:\new folder (2)\tubes1.1\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1672749609 e:\new folder (2)\tubes1.1\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1672753466 source:e:\new folder (2)\tubes1.1\tubes\tubes\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1673011624 source:c:\users\asus\downloads\tubes1.3\tubes1.1\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1672749609 c:\users\asus\downloads\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1673011359 source:c:\users\asus\downloads\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1673095898 source:e:\song\tubes1.3\tubes1.1\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1673092861 e:\song\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1673096771 source:e:\song\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1673129048 source:c:\users\asus\downloads\tubes1.3\tubes1.3\tubes1.1\tubes\tubes\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1673128298 c:\users\asus\downloads\tubes1.3\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.h
+	<iostream>
+
+1673129310 source:c:\users\asus\downloads\tubes1.3\tubes1.3\tubes1.1\tubes\tubes\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
+1673394274 source:c:\users\asus\downloads\tugas besar (1)\tugas besar\main.cpp
+	"RESTORAN.h"
+
+1673394513 c:\users\asus\downloads\tugas besar (1)\tugas besar\restoran.h
+	<iostream>
+
+1673402167 source:c:\users\asus\downloads\tugas besar (1)\tugas besar\restoran.cpp
+	"RESTORAN.h"
+
